@@ -1,0 +1,6 @@
+{
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.languageFeatures.codeActions": false,
+    "vetur.validation.interpolation": false,
+    "vetur.completion.autoImport": true
+}
